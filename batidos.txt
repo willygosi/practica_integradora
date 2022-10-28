@@ -1,2 +1,4 @@
-El batido es una bebida elaborada a base de leche o helado, que puede llevar frutas, chocolate o turrón, por ejemplo. 
-Son preferidas por todo el mundo.
+El batido: se elaboran con leche, o helado.
+Pueden llevar frutas o no.
+}son excelentes para el verano
+
